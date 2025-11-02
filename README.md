@@ -1,15 +1,17 @@
-Cute Pomodoro Timer 🍅
+**Cute Pomodoro Timer** 🍅
 
 A simple, cute, and easy-to-use pomodoro timer to help you stay focused and productive.
 
 This is a clean and straightforward pomodoro timer built with HTML, CSS, and JavaScript. It's designed to be incredibly easy for anyone to handle, helping you manage your work and break sessions with zero hassle. Just press play and start focusing!
 
-Demo
+
+**Demo**
 You can use the live version of this timer here:
 
 (https://github.com/KawyaThathsarani/Pomodoro_Timer-25-slots-)
 
-Features
+
+**Features**
 Automatic Cycles: Starts with a 25-minute focus session and automatically switches to a 5-minute break when the time is up.
 
 Continuous Loop: Keeps alternating between focus and break modes to keep you in the flow.
@@ -19,8 +21,7 @@ Pause/Play Control: Easily pause the timer at any time and resume when you're re
 Reset Timer: A dedicated button to reset the timer back to the start of the current session (e.g., back to 25:00).
 
 
-Manual Mode Switching:
-
+**Manual Mode Switching:**
 During a focus session? Click "Switch to Break Mode" to start your break early.
 
 On a break? Click "Switch to Focus Mode" to get back to work whenever you're ready.
@@ -32,7 +33,9 @@ CSS: All the simple styling and layout.
 
 JavaScript: Powers all the timer logic, button functions, and automatic switching.
 
-Future Plans
+
+
+**Future Plans**
 This project is a simple start, and I'm excited to improve it more. Some ideas for the future include:
 
 Adding custom timer sounds or alarms.
